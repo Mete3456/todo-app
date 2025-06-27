@@ -4,7 +4,7 @@ Uygulamada kayıt olma ve giriş yapma kısımlarında hata verdiğinde sayfayı
 
 ---
 
-## 📋 İçindekiler
+## İçindekiler
 
 * Özellikler
 * Teknik Gereksinimler
@@ -81,7 +81,7 @@ npm start
 
 * React uygulaması "http://localhost:3000" adresinde erişilebilir.
 
-## 📂 Proje Dizini
+## Proje Dizini
 
 ```
 todo-app/
@@ -100,7 +100,7 @@ todo-app/
 └─ README.md       # Bu dosya
 ```
 
-## 🎯 Kullanım
+## Kullanım
 
 1. Tarayıcıda "http://localhost:3000" adresine gidin.
 2. Kayıt olmak için "Sign Up" sayfasına geçiş yapın.
