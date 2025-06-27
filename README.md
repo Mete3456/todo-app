@@ -1,4 +1,4 @@
-Verilen görev tanımından eksik noktaları var bunun farkında olarak atıyorum eksik veya yanlış anladığım bir kısım yok açıklamanızda bunu belirtmek isteerim. Uygulamanın web alanında benim ilk projem olması ve öğrenirken yapma sürecimde zaman problemi yaşadığımdan bu şekilde teslim etme tercihinde bulundum.
+Verilen görev tanımından eksik noktaları var bunun farkında olarak atıyorum. Görev tanımında eksik veya yanlış anladığım bir kısım yok bunu belirtmek isterim. Uygulamanın web alanında benim ilk projem olması ve öğrenirken yapma sürecimde zaman problemi yaşadığımdan bu şekilde teslim etme tercihinde bulundum.
 Bu proje, basit bir To-Do web uygulamasıdır. Kullanıcılar e-posta ve şifre ile kayıt olma, giriş yapma ve oturum açtıkları sürece görev ekleme, listeleme özelliklerini kullanabilir.
 Uygulamada kayıt olma ve giriş yapma kısımlarında hata verdiğinde sayfayı tekrar yükleme (refresh) gerekmektedir. Bilginize
 
